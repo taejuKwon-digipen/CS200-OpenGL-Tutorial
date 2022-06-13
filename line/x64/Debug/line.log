@@ -1,0 +1,6 @@
+﻿  Image.cpp
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\line\stb_image_write.h(285,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\line\stb_image_write.h(692,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\line\stb_image_write.h(1118,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TestDriver.cpp
+  코드를 생성하고 있습니다...

@@ -1,0 +1,4 @@
+﻿  glapp.cpp
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\tutorial-3\src\glapp.cpp(64,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tutorial-3.vcxproj -> C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\x64\Debug\tutorial-3.exe
+  0개 파일이 복사되었습니다.

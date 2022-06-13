@@ -1,0 +1,69 @@
+﻿  glapp.cpp
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_vec3.inl(54,1): error C2440: 'static_cast': 'X'에서 'T'(으)로 변환할 수 없습니다.
+          with
+          [
+              X=glm::vec<2,float,glm::packed_highp>
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_vec3.inl(54,7): message : 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_mat3x3.inl(94): message : 컴파일되는 함수 템플릿 인스턴스화 'glm::vec<3,float,glm::packed_highp>::vec<X3,Y3,Z3>(X,Y,Z)'에 대한 참조를 확인하세요.
+          with
+          [
+              X3=glm::vec<2,float,glm::packed_highp>,
+              Y3=glm::vec<2,float,glm::packed_highp>,
+              Z3=int,
+              X=glm::vec<2,float,glm::packed_highp>,
+              Y=glm::vec<2,float,glm::packed_highp>,
+              Z=int
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_mat3x3.inl(94): message : 컴파일되는 함수 템플릿 인스턴스화 'glm::vec<3,float,glm::packed_highp>::vec<X3,Y3,Z3>(X,Y,Z)'에 대한 참조를 확인하세요.
+          with
+          [
+              X3=glm::vec<2,float,glm::packed_highp>,
+              Y3=glm::vec<2,float,glm::packed_highp>,
+              Z3=int,
+              X=glm::vec<2,float,glm::packed_highp>,
+              Y=glm::vec<2,float,glm::packed_highp>,
+              Z=int
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\tutorial-4\src\glapp.cpp(496): message : 컴파일되는 함수 템플릿 인스턴스화 'glm::mat<3,3,glm::f32,glm::packed_highp>::mat<T,T,int,T,T,int,glm::vec<2,T,glm::packed_highp>,glm::vec<2,T,glm::packed_highp>,int>(X1,Y1,Z1,X2,Y2,Z2,X3,Y3,Z3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float,
+              X1=float,
+              Y1=float,
+              Z1=int,
+              X2=float,
+              Y2=float,
+              Z2=int,
+              X3=glm::vec<2,float,glm::packed_highp>,
+              Y3=glm::vec<2,float,glm::packed_highp>,
+              Z3=int
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\tutorial-4\src\glapp.cpp(492): message : 컴파일되는 함수 템플릿 인스턴스화 'glm::mat<3,3,glm::f32,glm::packed_highp>::mat<T,T,int,T,T,int,glm::vec<2,T,glm::packed_highp>,glm::vec<2,T,glm::packed_highp>,int>(X1,Y1,Z1,X2,Y2,Z2,X3,Y3,Z3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float,
+              X1=float,
+              Y1=float,
+              Z1=int,
+              X2=float,
+              Y2=float,
+              Z2=int,
+              X3=glm::vec<2,float,glm::packed_highp>,
+              Y3=glm::vec<2,float,glm::packed_highp>,
+              Z3=int
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_vec3.inl(55,1): error C2440: 'static_cast': 'Y'에서 'T'(으)로 변환할 수 없습니다.
+          with
+          [
+              Y=glm::vec<2,float,glm::packed_highp>
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\권태주\OneDrive\바탕 화면\opengl-dev\lib\include\glm\detail\type_vec3.inl(55,7): message : 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
